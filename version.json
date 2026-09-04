@@ -1,14 +1,16 @@
 {
-  "latestVersion": "2.9.2",
-  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.9.2/SLO_Optimizer.exe",
+  "latestVersion": "3.0.0",
+  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v3.0.0/SLO_Optimizer.exe",
   "releaseDate": "2026-09-04",
   "mandatory": false,
   "changelog": [
-    "🔑 AUTO-SAVE VIP LICENSE & SEAMLESS 1-CLICK AUTO-LOGIN",
-    "⚡ 1-CLICK AUTO-ON ALL FEATURES & PROFILE STATE PERSISTENCE",
-    "🚀 AUTO-ON FEATURES ON EVERY APP LAUNCH (Zero-Touch Background Optimization)",
-    "🧹 Cleaned up Hero Card Presets as requested by community",
-    "🔄 Switch Key / Change License Key Action for flexible account management",
-    "⚡ 0.500ms Kernel Timer Resolution & Dynamic Standby RAM Cleaner Auto-Engaged"
+    "🛡️ SYSTEM TRAY BACKGROUND GUARDIAN: Minimizes to tray, keeping 0.50ms kernel timer and ISLC memory loop active in background",
+    "🖥️ IN-GAME FRAMELESS FLOATING MINI HUD: Real-time CPU%, RAM%, 0.50ms timer, ping, and instant 1-click RAM Purge widget",
+    "⌨️ GLOBAL IN-GAME HOTKEYS: Ctrl+F12 to instantly purge Standby RAM in-game with sound chime, and Ctrl+F11 to toggle Mini HUD",
+    "🎮 CUSTOM GAMES MANAGER: Real-time monitoring with persistent game chip tags and 1-click remove functionality",
+    "🎯 LIVE ASIAN ESPORTS PING RADAR: Latency benchmarking for Singapore, Hong Kong, Tokyo, and Manila servers",
+    "📶 WI-FI GAMING PING FREEZE: WLAN AutoConfig anti-scan toggle eliminating 60s periodic ping spikes",
+    "⚡ RAW PHYSICAL RAM UNLOCK: Smart Windows MMAgent memory compression disabler for heavy games like FiveM",
+    "🔑 REMEMBER KEY & AUTO-LOGIN: Seamless instant login without retyping license credentials"
   ]
 }
