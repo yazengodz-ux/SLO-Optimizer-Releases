@@ -1,14 +1,14 @@
 {
-  "latestVersion": "2.9.1",
-  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.9.1/SLO_Optimizer.exe",
+  "latestVersion": "2.9.2",
+  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.9.2/SLO_Optimizer.exe",
   "releaseDate": "2026-09-04",
   "mandatory": false,
   "changelog": [
-    "🔧 HONE.GG-STYLE FIXES & SYSTEM DOCTOR MATRIX v2.9.1",
-    "🛠️ 12 Automated Real Repair Cards (Audio/Mic, Bluetooth, Windows Update, Disk Shrinking, FiveM, etc.)",
-    "🔍 Real-time Search Filter Bar for instant repair diagnostics",
-    "🏷️ Category Chips filtering: ALL, AUDIO, NETWORK, GAMING, WINDOWS, HARDWARE",
-    "📥 Integrated Dual-Tab Navigation: Seamless switching between Backups and Fixes",
-    "⚡ Cybernetic Laser Brackets, Live Status Badges, and Procedural Cyber Sound Feedback"
+    "🔑 AUTO-SAVE VIP LICENSE & SEAMLESS 1-CLICK AUTO-LOGIN",
+    "⚡ 1-CLICK AUTO-ON ALL FEATURES & PROFILE STATE PERSISTENCE",
+    "🚀 AUTO-ON FEATURES ON EVERY APP LAUNCH (Zero-Touch Background Optimization)",
+    "🧹 Cleaned up Hero Card Presets as requested by community",
+    "🔄 Switch Key / Change License Key Action for flexible account management",
+    "⚡ 0.500ms Kernel Timer Resolution & Dynamic Standby RAM Cleaner Auto-Engaged"
   ]
 }
