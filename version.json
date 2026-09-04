@@ -1,16 +1,15 @@
 {
-  "latestVersion": "3.0.0",
-  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v3.0.0/SLO_Optimizer.exe",
+  "latestVersion": "3.1.0",
+  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v3.1.0/SLO_Optimizer.exe",
   "releaseDate": "2026-09-04",
   "mandatory": false,
   "changelog": [
-    "🛡️ SYSTEM TRAY BACKGROUND GUARDIAN: Minimizes to tray, keeping 0.50ms kernel timer and ISLC memory loop active in background",
-    "🖥️ IN-GAME FRAMELESS FLOATING MINI HUD: Real-time CPU%, RAM%, 0.50ms timer, ping, and instant 1-click RAM Purge widget",
-    "⌨️ GLOBAL IN-GAME HOTKEYS: Ctrl+F12 to instantly purge Standby RAM in-game with sound chime, and Ctrl+F11 to toggle Mini HUD",
-    "🎮 CUSTOM GAMES MANAGER: Real-time monitoring with persistent game chip tags and 1-click remove functionality",
-    "🎯 LIVE ASIAN ESPORTS PING RADAR: Latency benchmarking for Singapore, Hong Kong, Tokyo, and Manila servers",
-    "📶 WI-FI GAMING PING FREEZE: WLAN AutoConfig anti-scan toggle eliminating 60s periodic ping spikes",
-    "⚡ RAW PHYSICAL RAM UNLOCK: Smart Windows MMAgent memory compression disabler for heavy games like FiveM",
-    "🔑 REMEMBER KEY & AUTO-LOGIN: Seamless instant login without retyping license credentials"
+    "🚀 DUAL-STATE ANIMATED SIDEBAR: Smooth ~200ms ease-out transitions between Expanded (255px) and Compact (72px) modes",
+    "✨ NEON GLOW HOVER TOOLTIPS: Instant glowing cyan tooltips when hovering compact navigation icons without guessing",
+    "📐 DYNAMIC PUSH/REFLOW LAYOUT: Dashboard graphs, gauges, and telemetry automatically stretch to maximize screen real estate",
+    "⚡ AUTO GAME-LAUNCH DETECTOR: Hands-free background detection locking Realtime Priority, 0.50ms kernel timer, and memory purge",
+    "🧹 1-CLICK GAME & SHADER CACHE PURGE: Cleans FiveM, DirectX 12, NVIDIA/AMD DXCache, and Discord GPU caches with freed space reporting",
+    "🎮 MSI MODE & MMCSS ESPORTS PROFILE: Hardware interrupt bypass (<15µs DPC latency) and Multimedia Class Scheduler lock",
+    "🖥️ DWM MPO BYPASS & DISABLE PAGING EXECUTIVE: Eliminates multi-plane overlay drops and locks Windows NT kernel in physical RAM"
   ]
 }
