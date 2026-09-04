@@ -1,13 +1,16 @@
-﻿{
-  "latestVersion": "2.7.0",
-  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.7.0/SLO_Optimizer.exe",
-  "releaseDate": "2026-08-31",
+{
+  "latestVersion": "2.8.0",
+  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.8.0/SLO_Optimizer.exe",
+  "releaseDate": "2026-09-04",
   "mandatory": false,
   "changelog": [
-    "⚡ 40+ Comprehensive 100% Safe Pro Tweaks (Zero System32 touching)",
-    "🎛️ CPU Multi-Core Topology Matrix & Dynamic RGB Equalizer",
-    "🎯 Esports Game Server Ping Radar & Jitter Lab",
-    "🎮 Visual Game Badges (Valorant, FiveM, CS2, Fortnite, Roblox)",
-    "🚀 In-App 1-Click Automatic Self-Updating Engine"
+    "⚡ QUANTUM APEX 2026 PRO UI OVERHAUL",
+    "⚛️ Animated Quantum Arc-Reactor Core with Gyroscopic Plasma Simulation",
+    "🎛️ 24-Band Real-Time Cybernetic CPU Activity Equalizer",
+    "🎯 360° Military Radar Sweep & Global Esports Ping Scanner",
+    "🧠 Autonomous Neural Game Core Director (Instant P-Core Affinity Pinning)",
+    "🚀 1-Click Quantum Overdrive (0.500ms Timer Lock + Instant Standby RAM Purge)",
+    "🔊 Built-In Procedural Sci-Fi Synthesizer Sound Effects",
+    "💎 Chamfered 45° Hexagonal Cyber-Plates & Cursor-Reactive Laser Constellations"
   ]
 }
