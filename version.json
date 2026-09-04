@@ -1,16 +1,17 @@
-{
-  "latestVersion": "2.8.0",
-  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.8.0/SLO_Optimizer.exe",
+﻿{
+  "latestVersion": "2.8.1",
+  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.8.1/SLO_Optimizer.exe",
   "releaseDate": "2026-09-04",
   "mandatory": false,
   "changelog": [
-    "⚡ QUANTUM APEX 2026 PRO UI OVERHAUL",
-    "⚛️ Animated Quantum Arc-Reactor Core with Gyroscopic Plasma Simulation",
-    "🎛️ 24-Band Real-Time Cybernetic CPU Activity Equalizer",
-    "🎯 360° Military Radar Sweep & Global Esports Ping Scanner",
-    "🧠 Autonomous Neural Game Core Director (Instant P-Core Affinity Pinning)",
-    "🚀 1-Click Quantum Overdrive (0.500ms Timer Lock + Instant Standby RAM Purge)",
-    "🔊 Built-In Procedural Sci-Fi Synthesizer Sound Effects",
-    "💎 Chamfered 45° Hexagonal Cyber-Plates & Cursor-Reactive Laser Constellations"
+    "⚡ QUANTUM CYBER VAULT v2.8.1 OVERHAUL",
+    "🔐 Futuristic Holographic Quantum Cyber Vault Login with HWID Encrypted Microchip",
+    "☰ 3-Line Hamburger HUD Navigation Toggle (Collapsible Mini HUD / Full Expanded Mode)",
+    "⚡ 3 Distinct Categorized Modules (Core Engines, System Matrix, Tactical Specs)",
+    "🎛️ High-Tech Tweaks Category Filter Chips with Live Counter Badges ([ALL 62+], [🎮 GAMING 18], etc.)",
+    "⚛️ Animated Quantum Arc-Reactor Core with Gyroscopic Plasma Simulation & 24-Band CPU Equalizer",
+    "🎯 360° Military Radar Sweep & Global Esports Ping Scanner with Live Pings",
+    "🔊 Procedural Sci-Fi Synthesizer Sound Engine (Overdrive Warp, Purge Waves, Radar Pings)",
+    "💎 Chamfered Cyber-Plate Armor Accents across every Tweak Card and UI Surface"
   ]
 }
