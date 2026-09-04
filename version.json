@@ -1,17 +1,14 @@
-﻿{
-  "latestVersion": "2.9.0",
-  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.9.0/SLO_Optimizer.exe",
+{
+  "latestVersion": "2.9.1",
+  "downloadUrl": "https://github.com/yazengodz-ux/SLO-Optimizer-Releases/releases/download/v2.9.1/SLO_Optimizer.exe",
   "releaseDate": "2026-09-04",
   "mandatory": false,
   "changelog": [
-    "⚡ HONE.GG-INSPIRED QUANTUM OVERHAUL v2.9.0",
-    "🚀 Top Hero Boost Optimization Hub with Real-Time Health Ribbon and 1-Click Action",
-    "📊 Hone Impact Badges on all Tweaks ([0-DELAY], [+15% FPS], [100% SAFE], [POPULAR])",
-    "🎯 Dedicated Game Optimization Matrix (Valorant, CS2, FiveM, Fortnite, Roblox)",
-    "⚛️ Animated 60 FPS Gyroscopic Quantum Arc-Reactor Core with Particle Aura",
-    "🎛️ 24-Band Multi-Core Equalizer & 360° Military Radar Ping Scanner",
-    "☰ Collapsible 3-Line Hamburger HUD Navigation (Mini HUD / Full Expanded Mode)",
-    "💎 Chamfered Cyber-Plate Armor Accents across every card and panel",
-    "🔊 Built-In Procedural Sci-Fi Synthesizer Sound Engine"
+    "🔧 HONE.GG-STYLE FIXES & SYSTEM DOCTOR MATRIX v2.9.1",
+    "🛠️ 12 Automated Real Repair Cards (Audio/Mic, Bluetooth, Windows Update, Disk Shrinking, FiveM, etc.)",
+    "🔍 Real-time Search Filter Bar for instant repair diagnostics",
+    "🏷️ Category Chips filtering: ALL, AUDIO, NETWORK, GAMING, WINDOWS, HARDWARE",
+    "📥 Integrated Dual-Tab Navigation: Seamless switching between Backups and Fixes",
+    "⚡ Cybernetic Laser Brackets, Live Status Badges, and Procedural Cyber Sound Feedback"
   ]
 }
